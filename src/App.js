@@ -15,7 +15,7 @@ export default function App() {
           <div className="text-center">
             <h1 className="text-2xl font-bold text-black">@nug</h1>
             <p className="text-gray-800"></p>
-            <p className="text-gray-800">CA: <span className="text-xs md:text-base">coming...</span></p>
+            <p className="text-gray-800">CA: 55cC7iqeJkkzPUeZidM6RzpzTnXwfmDqJSRaK7an9hj5<span className="text-xs md:text-base">coming...</span></p>
             <p className="text-gray-800">nug expert</p>
             <p className="text-gray-800">aspiring entrepreneur</p>
             <div className="text-gray-800">
